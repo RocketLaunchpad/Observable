@@ -1,6 +1,6 @@
 # Observable Property Wrapper
 
-This microframework provides a property wrapped called `@Observable` which is the equivalent of a private subject and a public (or internal) publisher.
+This microframework provides a property wrapper called `@Observable` which is the equivalent of a private subject and a public (or internal) publisher.
 
 Instead of writing this:
 
